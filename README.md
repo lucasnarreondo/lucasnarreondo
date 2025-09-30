@@ -14,7 +14,7 @@ I build **scalable, high-performance web solutions** — from boutique WordPress
 
 ### 📫 Connect
 
-- 💼 LinkedIn: [linkedin.com/in/lucasnarreondo](https://linkedin.com/in/lucasnarreondo)  
+- 💼 LinkedIn: [linkedin.com/in/lucasnarreondo](https://linkedin.com/in/lucascesarnarreondobernardo)  
 - 📧 Email: **lucas.narreondo@gmail.com**  
 
 💡 *“I transform challenges into digital opportunities — scalable, elegant, and built to last.”*
