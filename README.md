@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @lucasnarreondo
-- 👀 I’m interested in React JS, HTML, CSS, JAVASCRIPT & Web Apps
-- 🌱 I’m currently learning React JS, Javascript, Firebase DB...
-- 💞️ I’m looking to collaborate on small projects to learn more :) ...
-- 📫 How to reach me: on www.4coolweb.co.uk or lucas.narreondo@gmail.com...
+ 👋 Hey, I’m Lucas I've started my coding passion in 2018
 
-<!---
-lucasnarreondo/lucasnarreondo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Full-Stack Web Developer & Founder at [Sohobyte](https://www.sohobyte.co.uk)**  
+I build **scalable, high-performance web solutions** — from boutique WordPress sites to advanced React/Next.js platforms with AI integrations.  
+
+### 🚀 What I Do
+- 🖥️ **Front-End:** React.js, Next.js, HTML, CSS, JavaScript, Tailwind, Bootstrap  
+- ⚙️ **Back-End / Infra:** Firebase, Supabase, Node.js, Vercel, GitHub Actions  
+- 📊 **CMS & eCommerce:** WordPress (ACF, Gutenberg, Elementor), Headless CMS  
+- 🤖 **AI & Automation:** Chatbots (LangChain, Vercel AI SDK), process automation  
+- 🌍 **SEO & Growth:** Analytics, Search Console, Mailchimp, GDPR-compliant builds  
+
+ 
+
+### 📫 Connect
+
+- 💼 LinkedIn: [linkedin.com/in/lucasnarreondo](https://linkedin.com/in/lucasnarreondo)  
+- 📧 Email: **lucas.narreondo@gmail.com**  
+
+💡 *“I transform challenges into digital opportunities — scalable, elegant, and built to last.”*
